@@ -361,7 +361,7 @@ export default {
         html : `I'm the guy who loves Coding! So far, I've handle many different project which most of them are computer-related. .</li></ul>`,
         icon: 'mdi-fountain-pen-tip',
 
-        image    : 'img/timeline/iqor.png',
+        image    : 'img/timeline/CMR.png',
         iconImage: 'img/timeline/vue-registrar-logo.png',
       },
     ],
